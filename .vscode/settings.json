@@ -1,0 +1,15 @@
+{
+    "editor.fontSize": 14,
+    "editor.tabSize": 2,
+    "editor.fontFamily": "'IBM Plex Mono', 'monospace', monospace",
+    "editor.cursorBlinking": "smooth",
+    "cSpell.words": [
+        "distro",
+        "distros",
+        "fontconfig",
+        "geolocation",
+        "vimrc",
+        "vlog",
+        "vlogs"
+    ]
+}
